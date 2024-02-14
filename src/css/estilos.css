@@ -191,20 +191,40 @@ body{
     border: 1px solid #00439c;
 }
 
+.compre-ja .btn-plataforma .plataformas li:nth-child(1):hover {
+    background-color: #00439c;
+}
+
 .compre-ja .btn-plataforma .plataformas li:nth-child(2){
     border: 1px solid #8c9c00;
+}
+
+.compre-ja .btn-plataforma .plataformas li:nth-child(2):hover {
+    background-color: #8c9c00;
 }
 
 .compre-ja .btn-plataforma .plataformas li:nth-child(3){
     border: 1px solid #9c3e00;
 }
 
+.compre-ja .btn-plataforma .plataformas li:nth-child(3):hover {
+    background-color: #9c3e00;
+}
+
 .compre-ja .btn-plataforma .plataformas li:nth-child(4){
     border: 1px solid #009c27;
 }
 
+.compre-ja .btn-plataforma .plataformas li:nth-child(4):hover {
+    background-color: #009c27;
+}
+
 .compre-ja .btn-plataforma .plataformas li:nth-child(5){
     border: 1px solid #634217;
+}
+
+.compre-ja .btn-plataforma .plataformas li:nth-child(5):hover {
+    background-color: #634217;
 }
 
  
